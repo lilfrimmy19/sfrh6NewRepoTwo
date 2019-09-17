@@ -1,2 +1,2 @@
 # sfrh6NewRepoTwo
-Clone of the first one
+This is just a second repo I have decided to create!
